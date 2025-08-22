@@ -70,7 +70,7 @@ const developpeur = {
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diranecode&theme=tokyonight)
 
 </div>
 
@@ -175,19 +175,12 @@ const developpeur = {
 
 ---
 
-<div align="center">
-
-### 🎨 Quelques animations sympas
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
 
 ### 🏅 Badges & Achievements
 
-![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/VOTRE_USERNAME?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/VOTRE_USERNAME?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=diranecode&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/diranecode?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/diranecode?style=for-the-badge&color=yellow)
 
 ---
 
