@@ -1,32 +1,252 @@
-<body style="background-color: #141414">
-    <b>#DIRANE CODE</b>
-    <h1 style="color: #539400">👋 Hi, je suis @diraneCode Developpeur web et mobile</h1>
-    - 👀 Je suis passionné par le développement web et mobile<br />
-    - 🌱 Je suis tout les jours en constante évolution<br />
-    - 💞️ N'hésite pas à me contacter pour une collaboration<br />
-    <h4>⚡ Mes langages sont : </h4>
-    <ul>
-        <li>Javascript</li>
-        <li>Php</li>
-        <li>Java</li>
-        <li>Dart</li>
-    </ul>
-    <h4>📫 Mes technos sont :</h4>
-    <ul>
-        <li>React JS</li>
-        <li>Next JS</li>
-        <li>React Native</li>
-        <li>Expo</li>
-        <li>Node JS</li>
-        <li>Prisma</li>
-        <li>Flutter</li>
-    </ul>
-        .
-    😄 Heureux de te connaitre
+<div align="center">
+  
+# 👋 Salut, je suis [Votre Nom] !
 
-</body>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Passionné+de+Technologie;Créateur+d'Expériences+Digitales" alt="Typing SVG" />
 
-<!---
-diraneCode/diraneCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+---
+
+## 🚀 À propos de moi
+
+\`\`\`javascript
+const developpeur = {
+    nom: "Votre Nom",
+    role: "Développeur Full-Stack",
+    localisation: "France 🇫🇷",
+    langues: ["Français", "Anglais"],
+    passion: "Créer des solutions innovantes",
+    actuellement: "En recherche de nouvelles opportunités",
+    hobbies: ["Coding", "Gaming", "Tech", "Open Source"]
+};
+\`\`\`
+
+<div align="center">
+  
+### 💫 "Code is poetry written in logic"
+
+</div>
+
+---
+
+## 🛠️ Technologies & Outils
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Base de données
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Outils & Plateformes
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 Projets Phares
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 [Nom du Projet 1](https://github.com/votre-username/projet1)
+![Projet 1](https://via.placeholder.com/400x200/0D1117/00D9FF?text=Projet+1)
+
+**Tech Stack:** React, Node.js, MongoDB  
+**Description:** Une application web moderne qui...
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-username/projet1)
+[![Demo](https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-demo.com)
+
+</td>
+<td width="50%">
+
+### 🚀 [Nom du Projet 2](https://github.com/votre-username/projet2)
+![Projet 2](https://via.placeholder.com/400x200/0D1117/61DAFB?text=Projet+2)
+
+**Tech Stack:** Next.js, TypeScript, PostgreSQL  
+**Description:** Une plateforme innovante pour...
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-username/projet2)
+[![Demo](https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-demo2.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Objectifs 2024
+
+- [ ] 🚀 Contribuer à 5 projets open source
+- [ ] 📚 Maîtriser les technologies Web3
+- [ ] 🏆 Lancer mon propre SaaS
+- [ ] 🌱 Apprendre Rust et Go
+- [ ] 📝 Écrire 12 articles techniques
+
+---
+
+## 📈 Activité de Développement
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🌐 Connectons-nous !
+
+<div align="center">
+
+### 💬 N'hésitez pas à me contacter !
+
+<p>
+<a href="mailto:votre.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/votre-profil">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/votre-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://discord.gg/votre-discord">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://votre-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
+
+### 📱 Réseaux Sociaux
+
+<p>
+<a href="https://instagram.com/votre-handle">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://youtube.com/c/votre-chaine">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://dev.to/votre-profil">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 Quelques animations sympas
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 💡 Citation du jour
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+---
+
+### 🏅 Badges & Achievements
+
+![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/VOTRE_USERNAME?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/VOTRE_USERNAME?style=for-the-badge&color=yellow)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**Merci de visiter mon profil ! ⭐ N'oubliez pas de star mes repos si ils vous plaisent !**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/VOTRE_USERNAME/VOTRE_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+\`\`\`
+
+</div>
+
+J'ai créé un README.md très attrayant et moderne pour votre profil GitHub ! Voici ce qu'il inclut :
+
+**🎨 Éléments visuels :**
+- Animation de texte qui se tape automatiquement
+- GIFs animés et images attractives
+- Badges colorés pour toutes vos technologies
+- Graphiques de statistiques GitHub
+- Snake animation des contributions
+
+**📋 Sections incluses :**
+- Présentation personnelle avec du code JavaScript
+- Technologies et outils avec badges colorés
+- Statistiques GitHub détaillées
+- Projets phares avec images
+- Objectifs 2024
+- Graphique d'activité
+- Liens vers tous vos réseaux sociaux
+- Citations inspirantes
+
+**🔧 À personnaliser :**
+- Remplacez `VOTRE_USERNAME` par votre nom d'utilisateur GitHub
+- Ajoutez vos vrais liens (email, LinkedIn, Twitter, etc.)
+- Modifiez les technologies selon vos compétences
+- Ajoutez vos vrais projets avec leurs liens
+- Personnalisez les objectifs et la bio
+
+Ce README utilise toutes les possibilités de GitHub Markdown pour créer un profil très professionnel et attrayant qui vous démarquera !
