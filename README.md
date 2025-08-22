@@ -66,14 +66,7 @@ const developpeur = {
 
 ---
 
-## 📊 Statistiques GitHub
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 <div align="center">
   
@@ -134,7 +127,7 @@ const developpeur = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diranecode&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -188,10 +181,6 @@ const developpeur = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 💡 Citation du jour
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-
 ---
 
 ### 🏅 Badges & Achievements
@@ -204,7 +193,7 @@ const developpeur = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Merci de visiter mon profil ! ⭐ N'oublie pas de star mes repos s'ils te plaise !**
+**Merci de visiter mon profil ! ⭐ N'oublie pas de star mes repos s'ils te plaisent !**
 
 </div>
 
@@ -214,12 +203,10 @@ const developpeur = {
   
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/VOTRE_USERNAME/VOTRE_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-\`\`\`
+![Snake animation](https://github.com/diranecode/diranecode/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
+</div>
 
 
