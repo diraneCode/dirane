@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Salut, je suis [Votre Nom] !
+# 👋 Salut, je suis Dirane Mekem !
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Passionné+de+Technologie;Créateur+d'Expériences+Digitales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Designer+UI+UX;Créateur+d'Expériences+Digitales" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -14,9 +14,9 @@
 
 \`\`\`javascript
 const developpeur = {
-    nom: "Votre Nom",
+    nom: "Dirane Mekem",
     role: "Développeur Full-Stack",
-    localisation: "France 🇫🇷",
+    localisation: "Cameroun 🇫🇷",
     langues: ["Français", "Anglais"],
     passion: "Créer des solutions innovantes",
     actuellement: "En recherche de nouvelles opportunités",
@@ -43,14 +43,12 @@ const developpeur = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Base de données
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -122,7 +120,7 @@ const developpeur = {
 
 ---
 
-## 🎯 Objectifs 2024
+## 🎯 Objectifs 2025
 
 - [ ] 🚀 Contribuer à 5 projets open source
 - [ ] 📚 Maîtriser les technologies Web3
@@ -149,10 +147,10 @@ const developpeur = {
 ### 💬 N'hésitez pas à me contacter !
 
 <p>
-<a href="mailto:votre.email@example.com">
+<a href="mailto:diranemekem@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/votre-profil">
+<a href="https://linkedin.com/in/dirane-mekem-63b588273">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/votre-handle">
@@ -161,7 +159,7 @@ const developpeur = {
 <a href="https://discord.gg/votre-discord">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://votre-portfolio.com">
+<a href="https://portfolio-dirane.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
@@ -206,7 +204,7 @@ const developpeur = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Merci de visiter mon profil ! ⭐ N'oubliez pas de star mes repos si ils vous plaisent !**
+**Merci de visiter mon profil ! ⭐ N'oublie pas de star mes repos s'ils te plaise !**
 
 </div>
 
@@ -223,30 +221,5 @@ const developpeur = {
 
 </div>
 
-J'ai créé un README.md très attrayant et moderne pour votre profil GitHub ! Voici ce qu'il inclut :
 
-**🎨 Éléments visuels :**
-- Animation de texte qui se tape automatiquement
-- GIFs animés et images attractives
-- Badges colorés pour toutes vos technologies
-- Graphiques de statistiques GitHub
-- Snake animation des contributions
 
-**📋 Sections incluses :**
-- Présentation personnelle avec du code JavaScript
-- Technologies et outils avec badges colorés
-- Statistiques GitHub détaillées
-- Projets phares avec images
-- Objectifs 2024
-- Graphique d'activité
-- Liens vers tous vos réseaux sociaux
-- Citations inspirantes
-
-**🔧 À personnaliser :**
-- Remplacez `VOTRE_USERNAME` par votre nom d'utilisateur GitHub
-- Ajoutez vos vrais liens (email, LinkedIn, Twitter, etc.)
-- Modifiez les technologies selon vos compétences
-- Ajoutez vos vrais projets avec leurs liens
-- Personnalisez les objectifs et la bio
-
-Ce README utilise toutes les possibilités de GitHub Markdown pour créer un profil très professionnel et attrayant qui vous démarquera !
